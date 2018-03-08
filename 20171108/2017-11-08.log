@@ -1,0 +1,8 @@
+[2017-11-08 11:02:48][debug] begin:
+[2017-11-08 11:02:48][debug] sysparams:{"app_id":"20170620182400239879","method":"openapi.payment.order.scan","format":"json","sign_method":"md5","nonce":"1myfdvb3fvx8krtx5cuzh5xwwgm0gz58","version":"1.0","sign":"E1CECBFF54579189D4994BBDF854849A"}
+[2017-11-08 11:02:48][debug] apiParams:{"biz_content":"{\"merchant_order_sn\":\"GB08101484063354|1510110168\",\"type\":2,\"total_fee\":\"33.9\"}"}
+[2017-11-08 11:02:49][debug] resp-Object:"{\"result_message\":\"\u6210\u529f\",\"data\":{\"order_sn\":\"20171108110248879445\",\"qr_code\":\"https:\/\/qr.alipay.com\/bax07500hfhq7mmwfc47009c\"},\"result_code\":200}"
+[2017-11-08 11:02:58][debug] begin:
+[2017-11-08 11:02:58][debug] sysparams:{"app_id":"20170620182400239879","method":"openapi.payment.order.scan","format":"json","sign_method":"md5","nonce":"skg5ihzi5x0db2p2ntuv3sgufd8jllxp","version":"1.0","sign":"2E373FD0C3601EE56BD43A26394C93A7"}
+[2017-11-08 11:02:58][debug] apiParams:{"biz_content":"{\"merchant_order_sn\":\"GB08101484063354|1510110178\",\"type\":1,\"total_fee\":\"33.9\"}"}
+[2017-11-08 11:02:58][debug] resp-Object:"{\"result_message\":\"\u4e8c\u7ef4\u7801\u751f\u6210\u5931\u8d25, \u8bf7\u91cd\u65b0\u751f\u6210\u8ba2\u5355\u540e\u518d\u6b21\u8bf7\u6c42[-103]\",\"data\":{\"merchant_order_sn\":\"GB08101484063354|1510110178\"},\"result_code\":400}"
